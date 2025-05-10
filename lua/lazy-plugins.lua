@@ -46,7 +46,7 @@ require('lazy').setup({
   require 'kickstart/plugins/transparent',
 
   require 'kickstart/plugins/conform',
-  
+
   require 'kickstart/plugins/markdown',
 
   -- The following comments only work if you have downloaded the kickstart repo, not just copy pasted the
